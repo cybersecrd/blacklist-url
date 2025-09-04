@@ -1655,7 +1655,6 @@ e86eafcf9294.bingsearchlib.com
 pop2slr.com
 censys.io
 anonfiles.com
-mega.nz
 send.exploit.in
 ufile.io
 sendspace.com
