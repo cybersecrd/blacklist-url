@@ -477,7 +477,6 @@ psh2.1push.io
 23.109.82.102
 servers.com
 fastly.com
-151.101.129.44
 151.101.65.44
 vidhidepro.com
 131.153.242.59
