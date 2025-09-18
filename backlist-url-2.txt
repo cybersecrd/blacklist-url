@@ -467,13 +467,10 @@ sso.com
 qrator.cz
 185.104.208.93
 54.36.150.180
-ovh.com
 157.90.33.79
 psh2.1push.io
 23.109.82.102
 servers.com
-fastly.com
-151.101.65.44
 vidhidepro.com
 131.153.242.59
 securedservers.com
