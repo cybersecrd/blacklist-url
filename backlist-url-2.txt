@@ -210,10 +210,6 @@ mostongou.com
 52.96.189.2
 51.11.192.50
 52.167.249.196
-51.11.192.50--microsoft
-13.78.111.198--microsoft
-13.107.21.239--microsoft
-23.23.243.21---sophos
 weatherplllatform.com
 artcofair.com
 horsehospital.com
